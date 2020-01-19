@@ -1,0 +1,33 @@
+body {
+    height: 100vh;
+}
+
+.page-container {
+    display: flex;
+    height: 100%;
+  }
+
+.main-content {
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+}  
+
+.badge-development {
+    background-color: #EC1B69;
+    color: white;
+}
+  
+.badge-design {
+    background-color: #3B56A5;
+    color: white;
+}
+  
+.badge-business {
+    background-color: #82C94B;
+    color: white;
+}
+  
+.fave-btn:hover {
+    color: #F1C91C;
+}
